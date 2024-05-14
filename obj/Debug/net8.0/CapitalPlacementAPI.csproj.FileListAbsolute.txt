@@ -30,3 +30,5 @@
 /home/lakshan/Desktop/dotnet/CapitalPlacementAPI/obj/Debug/net8.0/CapitalPlacementAPI.pdb
 /home/lakshan/Desktop/dotnet/CapitalPlacementAPI/obj/Debug/net8.0/CapitalPlacementAPI.genruntimeconfig.cache
 /home/lakshan/Desktop/dotnet/CapitalPlacementAPI/obj/Debug/net8.0/ref/CapitalPlacementAPI.dll
+/home/lakshan/Desktop/dotnet/CapitalPlacementAPI/obj/Debug/net8.0/CapitalPlacementAPI.sourcelink.json
+/home/lakshan/Desktop/dotnet/CapitalPlacementAPI/bin/Debug/net8.0/Newtonsoft.Json.dll
